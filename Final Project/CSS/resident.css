@@ -1,0 +1,26 @@
+.member-container {
+  width: 195px;
+  height: 290px;
+  padding: 5px;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.member-pic{
+width: 90%;
+height: 200px;
+background: red;
+border: solid black;
+overflow: hidden;
+}
+
+
+.member-pic img {
+  width: 100%;
+  min-height:100%;
+}
+
+.big-container {
+  width: 100%; !important
+}

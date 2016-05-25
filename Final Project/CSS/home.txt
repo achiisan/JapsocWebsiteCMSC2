@@ -1,0 +1,79 @@
+html{
+	margin2%;
+}
+
+div.container1{
+	height70%;
+}
+
+div.navbar{
+	floatleft;
+	padding0.5%;
+	width20%;
+	background-color #9F0000;
+	border-radius 20px;
+}
+
+div.content{
+	floatleft;
+}
+
+div.content3{
+	floatleft;
+}
+
+div.content6{
+	width80%;
+}
+
+div#livimg{
+	floatleft;
+	margin auto;
+	padding 0px 0px 0px 10%;
+}
+
+div#slideimg{
+	floatright;
+	marginauto;
+	padding0px 0px 0px 10%;
+}
+
+ul.navlist{
+	list-style-type none;
+	padding1px;
+}
+
+ul.livadj{
+	list-style-type none;
+}
+
+.navlist li a{
+	font-family Verdana;
+	font-size90%;
+	text-decoration none;
+	colorwhite;
+
+	margin0px 0px 0px 3px;
+}
+
+.navlist li ahover, avisited{
+	colorgray;
+}
+
+div.content_liv, div.content{
+	floatleft;
+	width75%;
+	padding0px 0px 0px 1%;
+}
+
+p{
+	font-familyVerdana;
+}
+
+h2#liv{
+	font-family Verdana;
+}
+
+.livadj img{
+	width100%;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<head>
+	<title> UP Japanology Society </title>
+	<link rel="stylesheet" type="text/css" href="../CSS/home.css"/>
+</head>
+
+<body>
+	<!-- BANNER -->
+	<div id="wrapperHeader">
+    	<div id="header">
+        <img src="../IMAGES/header.png" alt="logo" /></div> 
+	</div>
+	
+	<div class="container1">
+		<!-- NAVIGATION -->	
+		<div class="navbar">
+			<ul class="navlist">
+				<li><a href="index.html">Home</a></li>
+				<li><a href="p3.html">About Us</a></li>
+				<li><a href="training.html">Training</a></li>
+				<li><a href="p4.html">Achievements</a></li>
+				<li><a href="p5.html">Members</a></li>
+				<li><a href="activities.html">Activities</a></li>
+				<li><a href="p6.html">Gallery</a></li>
+				<li><a href="p7.html">Contact Us</a></li>
+			</ul>
+		</div>
+
+		<!-- PAGE CONTENT -->
+		<div class="content">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut malesuada justo vulputate erat hendrerit rutrum. Cras a laoreet diam. Sed tincidunt ultrices pharetra. Phasellus consectetur, augue ac convallis laoreet, tortor massa consequat nibh, ut ultrices leo erat ac purus. Nam in turpis velit. Mauris dictum velit et molestie convallis. Sed leo diam, porttitor et urna ut, euismod condimentum felis. Fusce maximus eros quis massa venenatis, ac vehicula quam laoreet. Morbi vel purus id ex egestas venenatis. Quisque aliquet urna blandit, dapibus ligula non, ullamcorper velit. Mauris sit amet tincidunt risus, ut dapibus tortor. Nulla vitae dolor sapien.</p>
+
+			<p>Nam nisl ante, aliquam a tempus et, condimentum quis nibh. Cras dapibus porta rhoncus. Donec nulla felis, fringilla sit amet feugiat id, varius vitae eros. Duis a tortor non ante congue congue vel quis ex. Cras quis risus ac elit sollicitudin molestie quis ut dolor. Sed nisl justo, faucibus quis erat id, posuere ullamcorper odio. Vivamus ut orci sit amet justo imperdiet pellentesque vel ac nunc. Sed vitae risus nec justo gravida bibendum sollicitudin nec eros. Phasellus magna orci, tempus non laoreet a, facilisis vel mi. Proin vel consequat odio. Suspendisse potenti. Nullam ac leo ante. Nam maximus sagittis dapibus. Nam a finibus mauris. Nulla facilisi. Pellentesque consequat gravida diam nec dignissim.</p>
+
+			<p>Nunc eget mauris et erat molestie vestibulum. Quisque metus massa, mattis vel ultrices interdum, tincidunt et purus. Aliquam enim leo, tristique vitae convallis in, lacinia in leo. Proin tempus massa nec varius egestas. Aliquam ac risus hendrerit, congue tortor sed, auctor ligula. Fusce sed pretium mi. Proin at efficitur augue, sed vestibulum ipsum. Cras ornare orci velit, vel mattis erat blandit eget.</p>
+		</div>
+	</div>
+</body>
+</html>

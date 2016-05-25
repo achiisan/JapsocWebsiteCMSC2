@@ -1,0 +1,77 @@
+body{
+	background-image:url("../IMAGES/bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	width:100%;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h1, h2, h3 {
+	font-family: trebuchet ms;
+}
+
+
+div#top {
+	width: 60%;
+	display: block;
+	color: white;
+	padding: 1%;
+	background-color: #000000;
+}
+
+.title {
+	font-size: 9px;
+	font-family: trebuchet ms;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	color: #ffffff;
+	float: left;
+	border-bottom: 0px solid #000;
+/*	padding-left: 250px;
+	padding-right: 5px;*/
+
+}
+
+.toplinks {
+	font-size: 9px;
+	font-family: trebuchet ms;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	float: right;
+}
+
+.toplinks a {
+	margin-left: 5px;
+	padding-left: 5px;
+/*	padding-right: 15px;*/
+	color: #ffffff;
+	text-decoration: none;
+}
+
+
+#entries {
+	margin-top: 100px;
+}
+
+#post1 {
+	background: #ffffff;
+	width:800px;
+	padding: 20px;
+	margin-bottom: 50px;
+	height: 2200px;
+}
+
+#post2 {
+	background: #ffffff;
+	width:800px;
+	padding: 20px;
+	margin-bottom: 50px;
+}
+
+p {
+	font-size: 10px;
+	font-family: trebuchet ms;
+	line-height: 150%;
+	color: #111;
+}
